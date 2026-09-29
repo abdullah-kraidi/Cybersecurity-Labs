@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity & Pentesting Hands-on Portfolio
 
-Welcome to my cybersecurity hands-on repository! I am a Cybersecurity student actively engaged in practical labs and CTF challenges on **TryHackMe** (Ranked in the **Top 3%** globally with 130+ completed rooms). 
+Welcome to my cybersecurity hands-on repository! I am a Cybersecurity student actively engaged in practical labs and CTF challenges on **TryHackMe** . 
 
 This repository serves as a showcase of my practical experience in **Network Security**, **Web Application Penetration Testing**, and **SOC Operations**.
 
